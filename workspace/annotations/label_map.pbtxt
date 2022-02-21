@@ -1,0 +1,20 @@
+item { 
+	name:'GunChange'
+	id:1
+}
+item { 
+	name:'GunShot'
+	id:2
+}
+item { 
+	name:'M416GL'
+	id:3
+}
+item { 
+	name:'M762GL'
+	id:4
+}
+item { 
+	name:'PistolGL'
+	id:5
+}

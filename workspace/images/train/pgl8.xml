@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pgl8.png</filename>
+	<path>/home/bio-ai/pubg/Tensorflow/workspace/images/train/pgl8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PistolGL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>182</ymin>
+			<xmax>1454</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

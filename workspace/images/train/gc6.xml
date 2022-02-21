@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>gc6.png</filename>
+	<path>/home/bio-ai/pubg/Tensorflow/workspace/images/train/gc6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GunChange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>284</ymin>
+			<xmax>1037</xmax>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+</annotation>

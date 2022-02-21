@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>gs3.png</filename>
+	<path>/home/bio-ai/pubg/Tensorflow/workspace/images/train/gs3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GunShot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>367</ymin>
+			<xmax>914</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>
